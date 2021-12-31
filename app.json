@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "Consultar Alta",
+    "slug": "search-alta",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon_teste": "./assets/icon_teste.png",
+    "scheme": "scanalta",
+    "splash": {
+      "image": "./assets/icon_teste.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#00995D"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.scanalta"
+    },
+    "android": {
+      "adaptiveicon_teste": {
+        "foregroundImage": "./assets/icon_teste.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.scanalta"
+    },
+    "web": {
+      "favicon_teste": "./assets/icon_teste.png"
+    }
+  }
+}
